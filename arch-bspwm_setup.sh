@@ -6,7 +6,7 @@
 # Font Awesome 6 Free
 
 # Installing Yay
-pacman -S --needed git base-devel
+sudo pacman -S --needed git base-devel
 mkdir ~/Build && cd ~/Build
 git clone https://aur.archlinux.org/yay.git
 cd yay
@@ -45,7 +45,7 @@ cp -r .config/alacritty ~/.config/
 cp -r .config/fish ~/.config/
 
 # Neovim Special Install
-sudo pacman -s neovim ctags
+sudo pacman -S neovim ctags
 cp -r .config/nvim ~/.config/
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
