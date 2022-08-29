@@ -13,4 +13,4 @@
   - feh (for wallpaper)
   - picom (ibhagwan fork) <!-- Please link ibhagwan github -->
 
-** THIS PAGE IS UNDER CONSTRUCTION. **
+**THIS PAGE IS UNDER CONSTRUCTION.**
