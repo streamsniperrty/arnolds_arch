@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="84.0924mm"
+   height="127.88516mm"
+   viewBox="0 0 84.0924 127.88516"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="176.39902"
+       y="624.29529"
+       width="493.29498"
+       height="112.44271"
+       id="rect285" />
+    <rect
+       x="174.05769"
+       y="294.53513"
+       width="324.69977"
+       height="261.47217"
+       id="rect113" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-63.578977,-59.844298)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.98092118,0,0,0.98092118,-112.24388,-243.19674)"
+       id="text111"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Mochiy Pop One';-inkscape-font-specification:'Mochiy Pop One';white-space:pre;shape-inside:url(#rect113);display:inline;fill:#000000"><tspan
+         x="174.05859"
+         y="391.01516"
+         id="tspan300"><tspan
+           style="fill:#ff00ff"
+           id="tspan298">夢</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,16.963603,-5.0583719)"
+       id="text283"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Mochiy Pop One';-inkscape-font-specification:'Mochiy Pop One';white-space:pre;shape-inside:url(#rect285);display:inline;fill:#000000"><tspan
+         x="176.39844"
+         y="720.77492"
+         id="tspan302">Yume</tspan></text>
+  </g>
+</svg>
