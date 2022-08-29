@@ -1,4 +1,3 @@
-![Yume Logo](yumeLogo.svg)
 <img src="yumeLogo.svg" alt="drawing" width="200"/>
 
 # yume
