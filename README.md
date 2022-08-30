@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yumeLogo.svg" alt="drawing" width="20%" />
+  <img src="imgs/yumeLogo.svg" alt="drawing" width="20%" />
 </p>
 
 <h3 align="center">Yume is a window manager setup script for Arch Linux.</h3>
@@ -8,6 +8,7 @@
 
 ## Overview
 - Yume is an install script, sort of like LARBS, that will automate the installation of my window manager setup.
+- Gruvbox themed
 - So, what will be installed?
   - BSPWM + SXHKD
   - feh (for wallpaper)
